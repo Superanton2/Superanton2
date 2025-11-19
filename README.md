@@ -1,14 +1,13 @@
-
 # 💫 About Me:
 junior developer in Python
 
 - I study at the [Kyiv School of Economics](https://kse.ua/) for AI
-[[KSE_photo]]
+[[KSE_Photo.jpg]]
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anton.fedoriv.official@gmail.com) 
-[[]](https://leetcode.com/u/Superanton2/)
+[[leetcode.png]](https://leetcode.com/u/Superanton2/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
