@@ -3,6 +3,8 @@ junior developer in Python
 
 - I study at the [Kyiv School of Economics](https://kse.ua/) for AI
 ![[KSE_Photo.jpg]]
+![[Superanton2/KSE_Photo.jpg]]
+
 
 
 ## 🌐 Socials:
