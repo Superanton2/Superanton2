@@ -5,3 +5,4 @@
 
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,md,notion,obsidian,cs,selenium,docker)](https://skillicons.dev)
+[![Aiogram](https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
